@@ -1,0 +1,14 @@
+C:\Users\gabri\My project\MatrizVetor\obj\Debug\net8.0\MatrizVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\My project\MatrizVetor\obj\Debug\net8.0\MatrizVetor.AssemblyInfoInputs.cache
+C:\Users\gabri\My project\MatrizVetor\obj\Debug\net8.0\MatrizVetor.AssemblyInfo.cs
+C:\Users\gabri\My project\MatrizVetor\obj\Debug\net8.0\MatrizVetor.csproj.CoreCompileInputs.cache
+C:\Users\gabri\My project\MatrizVetor\bin\Debug\net8.0\MatrizVetor.exe
+C:\Users\gabri\My project\MatrizVetor\bin\Debug\net8.0\MatrizVetor.deps.json
+C:\Users\gabri\My project\MatrizVetor\bin\Debug\net8.0\MatrizVetor.runtimeconfig.json
+C:\Users\gabri\My project\MatrizVetor\bin\Debug\net8.0\MatrizVetor.dll
+C:\Users\gabri\My project\MatrizVetor\bin\Debug\net8.0\MatrizVetor.pdb
+C:\Users\gabri\My project\MatrizVetor\obj\Debug\net8.0\MatrizVetor.dll
+C:\Users\gabri\My project\MatrizVetor\obj\Debug\net8.0\refint\MatrizVetor.dll
+C:\Users\gabri\My project\MatrizVetor\obj\Debug\net8.0\MatrizVetor.pdb
+C:\Users\gabri\My project\MatrizVetor\obj\Debug\net8.0\MatrizVetor.genruntimeconfig.cache
+C:\Users\gabri\My project\MatrizVetor\obj\Debug\net8.0\ref\MatrizVetor.dll
